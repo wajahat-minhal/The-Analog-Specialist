@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 62.5%;
+    border: 5px solid  black;
+}
+
+div {
+    width: 800px;
+    margin: 20px auto 20px auto;
+
+}
+
+.span1{
+    font-size: 0.8rem;
+    padding-left:38px;
+}
+.span2{
+    font-size: 1.6rem;
+    
+}
+.span3{
+    font-size: 1.2rem;
+    padding-right: 22px;
+}
+
+.para {
+    width: 150px;
+    margin: 10px auto 10px auto;
+}
+
+
+.box {
+    font-size: 1.5rem;
+    width: 20px;
+    margin: 30px auto 30px auto;
+}
+
+
+.list {
+    text-align: center;
+    border-top: 6px solid #000000;
+    border-bottom: 3px solid #000000;
+}
+
+
+
+li {
+    font-size: 1.5rem;
+    display: inline;
+    margin: 20px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+.detail {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    text-align: center;
+}
