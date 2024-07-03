@@ -2,7 +2,8 @@ body {
     margin: 0px;
     padding: 0px;
     font-size: 62.5%;
-    border: 5px solid  black;
+    height: 98vh;
+    border: 5px double black;
 }
 
 div {
@@ -17,10 +18,12 @@ div {
 }
 .span2{
     font-size: 1.6rem;
+    line-height: 80%;
     
 }
 .span3{
     font-size: 1.2rem;
+    line-height: 80%;
     padding-right: 22px;
 }
 
